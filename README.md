@@ -8,9 +8,9 @@ Mahmood is a Junior Web Developer and Cloud Developer with moderate experience u
 
 - 🧔🏾 Pronouns: He/him
 - 💡 Fun fact: He's currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 He's currently learning React.js, AWS and Azure.
+- 🌱 He's currently learning  AWS and Azure.
 - 👨🏾‍💻 He's looking for help with open source projects, hackathons, internships, mentorship and entry-level opportunities.
-- 💼 Job interests: Frontend Engineer / Cloud Engineer (Intern or Junior level).
+- 💼 Job interests:  Cloud Engineer (Intern or Junior level).
 - 📫 You can [view his resume](https://drive.google.com/file/d/1yLSF96cXJvHx2TVKweK2JFYah5G28Xvf/view?usp=sharing) and contact him by emailing mahmood.ademoye16@gmail.com.
 
 ---
