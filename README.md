@@ -11,7 +11,7 @@ Mahmood is a Junior Web Developer and Cloud Developer with moderate experience u
 - 🌱 He's currently learning  AWS and Azure.
 - 👨🏾‍💻 He's looking for help with open source projects, hackathons, internships, mentorship and entry-level opportunities.
 - 💼 Job interests:  Cloud Engineer (Intern or Junior level).
-- 📫 You can [view his resume](https://drive.google.com/file/d/1b3cpBcxwl70AvTJbK00Vyqldzj5ZYPjV/view?usp=sharing) and contact him by emailing mahmood.ademoye16@gmail.com.
+- 📫 You can [view his resume](https://drive.google.com/file/d/179E3Vvo2apEHzn10y6j5zoydNxCluIrG/view?usp=sharing) and contact him by emailing mahmood.ademoye16@gmail.com.
 
 ---
 
